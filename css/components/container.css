@@ -22,3 +22,29 @@
     border-radius: 40px;
     border: 1px solid rgb(230,230,230);
   }
+
+  /* responsivity */
+@media (min-width: 300px) {
+	.cards {
+        display: grid;
+	}
+    .card {
+        margin-bottom: 30px;
+    }
+}
+
+
+@media (min-width: 720px) {
+	.cards {
+        display: grid;
+	}
+    .card {
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 960px) {
+    .cards {
+        display: flex;
+	}
+}
