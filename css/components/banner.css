@@ -18,23 +18,3 @@
 .containerbanner {
     margin-left: 250px;
 }
-
-  /* responsivity
-  @media (min-width: 300px) {
-	.containerbanner{
-        margin-left: 10px;
-    }
-}
-
-
-@media (min-width: 720px) {
-    .containerbanner {
-        margin-left: 150px;
-    }
-}
-
-@media (min-width: 960px) {
-    .containerbanner {
-        margin-left: 250px;
-    }
-} */
