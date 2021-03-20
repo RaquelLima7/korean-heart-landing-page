@@ -1,0 +1,20 @@
+nav {
+    background-color: rgb(219, 126, 141);
+    color: white;
+    padding: 10px 0px;
+	text-align: right;
+	margin-bottom: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0; 
+} 
+
+nav .fa-heart {
+    font-size: 45px;
+    margin-right: 30px;
+}
+
+.fa-heart:hover {
+    transform: scale(1.05);
+    color: red;
+}

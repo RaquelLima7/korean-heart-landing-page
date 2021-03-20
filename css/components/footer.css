@@ -1,0 +1,15 @@
+footer {
+    background-color: rgb(219, 126, 141);
+    color: white;
+    padding: 10px 0px;
+	text-align: center;
+	margin: 5px auto;
+}
+
+footer .fa-heart {
+    color: red;
+}
+
+footer .fa-heart:hover{
+    transform: scale(2);
+}

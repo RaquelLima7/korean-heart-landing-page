@@ -1,0 +1,24 @@
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin: 80px;
+}
+
+
+.card {
+    text-align: center;
+    border: 1px solid rgb(230,230,230);
+    box-shadow: 0 0 5px rgb(230,230,230);
+    border-radius: 40px;
+}
+
+.card h4 {
+    color: #9468EB;
+    font-size: 20px;
+}
+
+.card img {
+    height: 300px;
+    border-radius: 40px;
+    border: 1px solid rgb(230,230,230);
+  }

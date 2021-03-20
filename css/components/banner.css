@@ -1,0 +1,20 @@
+.banner {
+    background-image: url('../../images/heartbanner.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    object-fit: cover;
+    margin-top: 0;
+    /* opacity: 0.75; */
+}
+
+.banner h1 {
+    color: #9468EB;
+    font-size: 50px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+
+.containerbanner {
+    margin-left: 250px;
+}
